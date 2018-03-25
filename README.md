@@ -115,7 +115,7 @@
 
 ### 比特币
 
-- [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](http://zhibimo.com/books/wang-miao/mastering-bitcoin)
+- [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](https://bitcoinbook.info/wp-content/translations/cmn/book.pdf)
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 - [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
